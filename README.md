@@ -1,2 +1,2 @@
-# redundant-content-research
-数字泔水|冗余内容研究
+# readme
+本项目主要研究数字泔水，闹着玩的。
