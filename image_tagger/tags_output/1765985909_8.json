@@ -1,0 +1,40 @@
+{
+    "caption": "trembling, 1girl, red_eyes, blush, long_hair, smile, grey_hair, hair_between_eyes, white_hair, solo, closed_mouth, blush_stickers, chibi, solid_oval_eyes, wavy_mouth, :>, censored, very_long_hair, black_dress, shaded_face, dress, |_|, looking_at_viewer, frills, apron",
+    "taglist": "trembling, 1girl, red eyes, blush, long hair, smile, grey hair, hair between eyes, white hair, solo, closed mouth, blush stickers, chibi, solid oval eyes, wavy mouth, :>, censored, very long hair, black dress, shaded face, dress, | |, looking at viewer, frills, apron",
+    "ratings": {
+        "general": 0.8162992000579834,
+        "sensitive": 0.3178616166114807,
+        "questionable": 0.04012410342693329,
+        "explicit": 0.06108040735125542
+    },
+    "character_tags": {},
+    "general_tags": {
+        "trembling": 0.9318404793739319,
+        "1girl": 0.8005380630493164,
+        "red_eyes": 0.8003563284873962,
+        "blush": 0.7861668467521667,
+        "long_hair": 0.7851351499557495,
+        "smile": 0.6826111674308777,
+        "grey_hair": 0.670524001121521,
+        "hair_between_eyes": 0.6702687740325928,
+        "white_hair": 0.6644431352615356,
+        "solo": 0.6063948273658752,
+        "closed_mouth": 0.5912716388702393,
+        "blush_stickers": 0.5541419386863708,
+        "chibi": 0.5470660328865051,
+        "solid_oval_eyes": 0.5460538864135742,
+        "wavy_mouth": 0.4832231402397156,
+        ":>": 0.4461291432380676,
+        "censored": 0.4433155655860901,
+        "very_long_hair": 0.44258350133895874,
+        "black_dress": 0.43785151839256287,
+        "shaded_face": 0.40463387966156006,
+        "dress": 0.40101003646850586,
+        "|_|": 0.3915819525718689,
+        "looking_at_viewer": 0.3614529073238373,
+        "frills": 0.3597751557826996,
+        "apron": 0.3539031744003296
+    },
+    "gen_threshold": 0.35,
+    "char_threshold": 0.75
+}

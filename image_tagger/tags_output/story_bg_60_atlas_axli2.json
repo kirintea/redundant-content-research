@@ -1,0 +1,26 @@
+{
+    "caption": "planet, scenery, science_fiction, no_humans, earth_(planet), indoors, space, hologram, solo, reflection, holographic_monitor",
+    "taglist": "planet, scenery, science fiction, no humans, earth \\(planet\\), indoors, space, hologram, solo, reflection, holographic monitor",
+    "ratings": {
+        "general": 0.9745048880577087,
+        "sensitive": 0.05574844032526016,
+        "questionable": 0.0005895736976526678,
+        "explicit": 0.0007880631601437926
+    },
+    "character_tags": {},
+    "general_tags": {
+        "planet": 0.9727838635444641,
+        "scenery": 0.9091202616691589,
+        "science_fiction": 0.8854422569274902,
+        "no_humans": 0.8663368225097656,
+        "earth_(planet)": 0.7990087270736694,
+        "indoors": 0.7980996370315552,
+        "space": 0.7225461006164551,
+        "hologram": 0.5835093855857849,
+        "solo": 0.47511932253837585,
+        "reflection": 0.39772894978523254,
+        "holographic_monitor": 0.3832254707813263
+    },
+    "gen_threshold": 0.35,
+    "char_threshold": 0.75
+}

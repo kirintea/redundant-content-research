@@ -1,0 +1,40 @@
+{
+    "caption": "long_hair, blush, grey_hair, 1girl, bare_shoulders, chibi, trembling, white_hair, closed_eyes, solo, detached_sleeves, earrings, closed_mouth, blunt_bangs, wavy_hair, ribbon, very_long_hair, dress, jewelry, blush_stickers, smile, 2girls, long_sleeves, red_dress, no_mouth",
+    "taglist": "long hair, blush, grey hair, 1girl, bare shoulders, chibi, trembling, white hair, closed eyes, solo, detached sleeves, earrings, closed mouth, blunt bangs, wavy hair, ribbon, very long hair, dress, jewelry, blush stickers, smile, 2girls, long sleeves, red dress, no mouth",
+    "ratings": {
+        "general": 0.7971138954162598,
+        "sensitive": 0.4002895951271057,
+        "questionable": 0.004406114108860493,
+        "explicit": 0.004537077154964209
+    },
+    "character_tags": {},
+    "general_tags": {
+        "long_hair": 0.9548024535179138,
+        "blush": 0.8278144598007202,
+        "grey_hair": 0.8162397146224976,
+        "1girl": 0.7678796648979187,
+        "bare_shoulders": 0.6596580743789673,
+        "chibi": 0.6473843455314636,
+        "trembling": 0.6062484979629517,
+        "white_hair": 0.5788050889968872,
+        "closed_eyes": 0.5632201433181763,
+        "solo": 0.5586632490158081,
+        "detached_sleeves": 0.5528383255004883,
+        "earrings": 0.5389818549156189,
+        "closed_mouth": 0.5343683362007141,
+        "blunt_bangs": 0.5290114879608154,
+        "wavy_hair": 0.5062331557273865,
+        "ribbon": 0.4818883240222931,
+        "very_long_hair": 0.4790612757205963,
+        "dress": 0.46202942728996277,
+        "jewelry": 0.409912109375,
+        "blush_stickers": 0.40302231907844543,
+        "smile": 0.3969663977622986,
+        "2girls": 0.3803424537181854,
+        "long_sleeves": 0.3725773096084595,
+        "red_dress": 0.36400729417800903,
+        "no_mouth": 0.3542000651359558
+    },
+    "gen_threshold": 0.35,
+    "char_threshold": 0.75
+}

@@ -1,0 +1,42 @@
+{
+    "caption": "blonde_hair, long_hair, 1girl, chibi, ahoge, dress, black_dress, dot_mouth, red_eyes, solo, forehead_jewel, hair_between_eyes, closed_mouth, gem, very_long_hair, black_bow, circlet, blush, hair_bow, bow, red_gemstone, hair_ornament, blush_stickers, standing, expressionless, frills, brooch",
+    "taglist": "blonde hair, long hair, 1girl, chibi, ahoge, dress, black dress, dot mouth, red eyes, solo, forehead jewel, hair between eyes, closed mouth, gem, very long hair, black bow, circlet, blush, hair bow, bow, red gemstone, hair ornament, blush stickers, standing, expressionless, frills, brooch",
+    "ratings": {
+        "general": 0.9734697937965393,
+        "sensitive": 0.05093295872211456,
+        "questionable": 0.0013727438636124134,
+        "explicit": 0.0011649866355583072
+    },
+    "character_tags": {},
+    "general_tags": {
+        "blonde_hair": 0.9851092100143433,
+        "long_hair": 0.922005295753479,
+        "1girl": 0.9110950827598572,
+        "chibi": 0.9005826711654663,
+        "ahoge": 0.7969986200332642,
+        "dress": 0.7933648228645325,
+        "black_dress": 0.7634870409965515,
+        "dot_mouth": 0.7498725056648254,
+        "red_eyes": 0.7051582932472229,
+        "solo": 0.6671411395072937,
+        "forehead_jewel": 0.6536645293235779,
+        "hair_between_eyes": 0.6485347747802734,
+        "closed_mouth": 0.6386212110519409,
+        "gem": 0.6379714012145996,
+        "very_long_hair": 0.5805869102478027,
+        "black_bow": 0.5589062571525574,
+        "circlet": 0.5553944706916809,
+        "blush": 0.5471476316452026,
+        "hair_bow": 0.5191831588745117,
+        "bow": 0.4914240837097168,
+        "red_gemstone": 0.47183042764663696,
+        "hair_ornament": 0.44549819827079773,
+        "blush_stickers": 0.42666396498680115,
+        "standing": 0.4082951247692108,
+        "expressionless": 0.390484482049942,
+        "frills": 0.3864385187625885,
+        "brooch": 0.3816259801387787
+    },
+    "gen_threshold": 0.35,
+    "char_threshold": 0.75
+}

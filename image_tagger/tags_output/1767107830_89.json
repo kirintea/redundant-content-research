@@ -1,0 +1,37 @@
+{
+    "caption": "anger_vein, blush, fang, 1girl, closed_eyes, nose_blush, black_hair, open_mouth, white_kimono, facing_viewer, solo, v-shaped_eyebrows, japanese_clothes, kimono, skin_fang, chibi, upper_body, full-face_blush, long_hair, one_side_up, wavy_mouth, angry",
+    "taglist": "anger vein, blush, fang, 1girl, closed eyes, nose blush, black hair, open mouth, white kimono, facing viewer, solo, v-shaped eyebrows, japanese clothes, kimono, skin fang, chibi, upper body, full-face blush, long hair, one side up, wavy mouth, angry",
+    "ratings": {
+        "general": 0.9745272994041443,
+        "sensitive": 0.04312684386968613,
+        "questionable": 0.0024530221708118916,
+        "explicit": 0.0004552227910608053
+    },
+    "character_tags": {},
+    "general_tags": {
+        "anger_vein": 0.9933302998542786,
+        "blush": 0.9842670559883118,
+        "fang": 0.9825522899627686,
+        "1girl": 0.9804613590240479,
+        "closed_eyes": 0.9763138890266418,
+        "nose_blush": 0.9740164875984192,
+        "black_hair": 0.9645792245864868,
+        "open_mouth": 0.8999407887458801,
+        "white_kimono": 0.8626176118850708,
+        "facing_viewer": 0.8048405051231384,
+        "solo": 0.790734589099884,
+        "v-shaped_eyebrows": 0.7763516902923584,
+        "japanese_clothes": 0.7676752209663391,
+        "kimono": 0.7536776065826416,
+        "skin_fang": 0.6915165781974792,
+        "chibi": 0.5328769087791443,
+        "upper_body": 0.5070422291755676,
+        "full-face_blush": 0.46655336022377014,
+        "long_hair": 0.4165925681591034,
+        "one_side_up": 0.41455358266830444,
+        "wavy_mouth": 0.401650995016098,
+        "angry": 0.3839193880558014
+    },
+    "gen_threshold": 0.35,
+    "char_threshold": 0.75
+}
